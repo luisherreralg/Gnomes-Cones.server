@@ -10,7 +10,7 @@
                 "12,5 x 12,5 x 34,5cm"
             ],
             "image": "https://m.media-amazon.com/images/I/81CiOJPyEML._AC_SL1500_.jpg",
-            "onsale": "true",
+            "onsale": true,
             "onsalePrice": 30.11,
             "price": 44.34
         },
@@ -24,7 +24,7 @@
                 "14 x 12,5 x 24 cm, 0,5 kg"
             ],
             "image": "https://m.media-amazon.com/images/I/71o+XTn9AJL._AC_SL1500_.jpg",
-            "onsale": "true",
+            "onsale": true,
             "onsalePrice": 19.99,
             "price": 23.46
         },
@@ -38,7 +38,7 @@
                 "16CM"
             ],
             "image": "https://m.media-amazon.com/images/I/61lwCWCUNrS._AC_SL1500_.jpg",
-            "onsale": "false",
+            "onsale": false,
             "onsalePrice": 10.99,
             "price": 10.99
         },
@@ -52,7 +52,7 @@
                 "15 x 10 x 6cm"
             ],
             "image": "https://m.media-amazon.com/images/I/51kKSEvo26L._AC_SL1049_.jpg",
-            "onsale": "false",
+            "onsale": false,
             "onsalePrice": 17.69,
             "price": 17.69
         },
@@ -66,7 +66,7 @@
                 "14 x 7 x 6cm"
             ],
             "image": "https://m.media-amazon.com/images/I/51DXx2cnAdL._AC_SL1500_.jpg",
-            "onsale": "true",
+            "onsale": true,
             "onsalePrice": 12.99,
             "price": 17.69
         },
@@ -80,7 +80,7 @@
                 "19.5 x 1 x 19.5 cm"
             ],
             "image": "https://m.media-amazon.com/images/I/61b8Wm05MqL._AC_SL1204_.jpg",
-            "onsale": "false",
+            "onsale": false,
             "onsalePrice": 35.69,
             "price": 35.69
         },
@@ -94,7 +94,7 @@
                 "17.78 cm de altura y 12.7 cm de diámetro"
             ],
             "image": "https://m.media-amazon.com/images/I/61QhpBDn-gL._AC_SL1500_.jpg",
-            "onsale": "false",
+            "onsale": false,
             "onsalePrice": 13.99,
             "price": 13.99
         },
@@ -108,7 +108,7 @@
                 "17 cm de altura, 13 cm de diámetro"
             ],
             "image": "https://m.media-amazon.com/images/I/41vgL0bnCJL._AC_SL1000_.jpg",
-            "onsale": "true",
+            "onsale": true,
             "onsalePrice": 9.99,
             "price": 13.99
         },
@@ -122,7 +122,7 @@
                 "24 x 13,5 x 13,5 cm"
             ],
             "image": "https://m.media-amazon.com/images/I/61TGbTVBoiL._AC_SL1500_.jpg",
-            "onsale": "true",
+            "onsale": true,
             "onsalePrice": 9.99,
             "price": 13.71
         },
@@ -136,7 +136,7 @@
                 "7 cm de ancho y 8 cm de alto"
             ],
             "image": "https://m.media-amazon.com/images/I/61sUomYAcUS._AC_SL1500_.jpg",
-            "onsale": "false",
+            "onsale": false,
             "onsalePrice": 12.99,
             "price": 12.99
         },
@@ -150,7 +150,7 @@
                 "7,5 cm de alto, 7,8 cm de diámetro"
             ],
             "image": "https://m.media-amazon.com/images/I/71AWcOQaQ-L._AC_SL1500_.jpg",
-            "onsale": "false",
+            "onsale": false,
             "onsalePrice": 15.99,
             "price": 15.99
         },
@@ -164,7 +164,7 @@
                 "35cm alto x 37,5cm ancho x 21cm profundidad"
             ],
             "image": "https://tecnol.es/shop/tecnol-urban/3918-large_default/tq-cono-vial-tetrapodo.jpg",
-            "onsale": "true",
+            "onsale": true,
             "onsalePrice": 29.99,
             "price": 42.98
         }
