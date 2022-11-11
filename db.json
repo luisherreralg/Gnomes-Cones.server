@@ -85,7 +85,7 @@
             "price": 35.69
         },
         {
-            "id": "1",
+            "id": "7",
             "section": "Cones",
             "name": "Reehut",
             "description": [
@@ -99,7 +99,7 @@
             "price": 13.99
         },
         {
-            "id": "2",
+            "id": "8",
             "section": "Cones",
             "name": "Tskdkit",
             "description": [
@@ -113,7 +113,7 @@
             "price": 13.99
         },
         {
-            "id": "3",
+            "id": "9",
             "section": "Cones",
             "name": "Idena",
             "description": [
@@ -127,7 +127,7 @@
             "price": 13.71
         },
         {
-            "id": "4",
+            "id": "10",
             "section": "Cones",
             "name": "SKLZ",
             "description": [
@@ -141,7 +141,7 @@
             "price": 12.99
         },
         {
-            "id": "5",
+            "id": "11",
             "section": "Cones",
             "name": "Conos con huecos",
             "description": [
@@ -155,7 +155,7 @@
             "price": 15.99
         },
         {
-            "id": "6",
+            "id": "12",
             "section": "Cones",
             "name": "Cono de la policia",
             "description": [
